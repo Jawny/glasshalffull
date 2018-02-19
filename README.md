@@ -1,2 +1,2 @@
 # glasshalffull
-*/https://jawny.github.io/glasshalffull/ /*
+http://www.glasshalffull.ga/
